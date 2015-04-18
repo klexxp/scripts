@@ -5,4 +5,5 @@ class GUI{
 	private function getGUI(){}
 	public function getSomething(){}
 	public function setSomething(){}
+	public function thisIsIt(){}
 }
