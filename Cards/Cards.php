@@ -1,5 +1,8 @@
 <?php
 
 class Cards{
-	public function __construct(){}
+	private $cards;
+	public function __construct(){
+			$this->cards = array();
+	}
 }
