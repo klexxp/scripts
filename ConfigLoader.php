@@ -1,5 +1,5 @@
 <?php
-class Config
+class ConfigLoader
 {
 	protected $data;
 	protected $default = null;
